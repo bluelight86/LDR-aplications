@@ -1,4 +1,4 @@
-# LDR-aplication
+# LDR-aplications
 
 This project showcases the design and implementation of a Printed Circuit Board (PCB) built to demonstrate the operating principle of a Light Dependent Resistor (LDR). The board includes two independent circuits that illustrate how light intensity can be used to control electronic components such as LEDs and buzzers.
 
